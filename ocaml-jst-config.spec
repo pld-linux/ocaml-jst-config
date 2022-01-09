@@ -47,7 +47,7 @@ używających biblioteki jst-config.
 
 %package devel
 Summary:	Compile-time configuration for Jane Street libraries - development part
-Summary(pl.UTF-8):	Konfiguracja z czasu kompilacji dla bibliotek Jane Street - cześć programistyczna
+Summary(pl.UTF-8):	Konfiguracja z czasu kompilacji dla bibliotek Jane Street - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
